@@ -1,7 +1,7 @@
 # YLTimer
 
 [![Swift](https://img.shields.io/badge/Swift-5-orange?logo=Swift&logoColor=white&style=for-the-badge)](https://developer.apple.com/swift/)
-[![Support](https://img.shields.io/badge/support-iOS%2010%2B-%238D6748.svg?style=for-the-badge)](https://www.apple.com/nl/ios/)
+[![Platform](https://img.shields.io/badge/platform-iOS%2010%2B-%238D6748.svg?style=for-the-badge)](https://www.apple.com/nl/ios/)
 [![Release](https://img.shields.io/cocoapods/v/YLTimer.svg?style=for-the-badge)](https://cocoapods.org/?q=YLTimer)
 [![SPM](https://img.shields.io/badge/SPM-✔-4BC51D.svg?style=for-the-badge)](https://swift.org/package-manager)
 [![License](https://img.shields.io/badge/license-mit-%23d9ead3.svg?style=for-the-badge)](http://opensource.org/licenses/MIT)
